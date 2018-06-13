@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	
+	<TraitDef>
+		<defName>HKR_SpawnInWorld</defName>
+		<commonality>0</commonality>
+		<degreeDatas>
+			<li>
+				<label>Spawns In World</label>
+				<description>NAME will not spawn at the beginning of the game, but will instead be added to the list of Worldpawns available to appear in random events/factions</description>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+	
+</Defs>

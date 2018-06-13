@@ -1,0 +1,3 @@
+F:\PortableApps\RimWorldBeta18Win\Mods\Red-PrepCarePawns\Assemblies\PrepCarePawns.dll
+F:\PortableApps\RimWorldBeta18Win\Mods\Red-PrepCarePawns\Source\PrepCarePawns\obj\Debug\PrepCarePawns.csprojResolveAssemblyReference.cache
+F:\PortableApps\RimWorldBeta18Win\Mods\Red-PrepCarePawns\Source\PrepCarePawns\obj\Debug\PrepCarePawns.dll

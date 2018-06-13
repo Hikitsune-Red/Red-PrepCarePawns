@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Red-PrepCarePawns</name>
+	<author>Hikitsune-Red</author>
+	<targetVersion>0.18.0</targetVersion>
+	<url>https://ludeon.com/forums</url>
+	<description>A simple one-two punch to the problem of not being able to use custom pawns as world pawns. Simply utilize Prepare Carefully to create a pawn, then apply the "Spawns In World" trait to them. Once the game starts, the pawns will poof out of existence, and into the world pawn pool where they are randomly assigned to a faction with whom you will eventually interact.</description>
+</ModMetaData>
